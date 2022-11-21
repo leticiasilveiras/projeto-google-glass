@@ -237,6 +237,22 @@ aside#lateral h2 {
     padding: 5px;
 }
 
+video#filme-01 {
+    display: block;
+    position: relative;
+    left: 50px;
+    top: 0px;
+    width: 400px;
+}
+
+video#filme-02 {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: 350px;
+}
+
 footer#rodape {
     clear: both;
     border-top: 1px solid #606060;
